@@ -6,5 +6,5 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 ### Links
 
-- Solution URL: [Github with code](https://github.com/konradbaczyk/Blog-preview-card)
-- Live site URL: [Live site](https://konradbaczyk.github.io/Blog-preview-card/)
+- Solution URL: [Github with code](https://github.com/konradbaczyk/Socjal-links-profile)
+- Live site URL: [Live site](https://konradbaczyk.github.io/Socjal-links-profile/)
